@@ -17,7 +17,7 @@ Hello, my name is Damien ROCH and I'm a Fullstack Web Developer located in Besan
 ![nodejs](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Prolog](https://custom-icon-badges.demolab.com/badge/Prolog-E61B23?style=flat-square&logo=swi-prolog&logoColor=white)
 
-### Frameworks & libraries
+### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F8?style=flat-square&logo=webpack&logoColor=black)
@@ -43,7 +43,7 @@ Hello, my name is Damien ROCH and I'm a Fullstack Web Developer located in Besan
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contenful-00f?style=flat-square&logo=contentful&logoColor=white)
 
-### Software and Tools
+### Software & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
