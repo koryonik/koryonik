@@ -55,6 +55,7 @@ Hello, my name is Damien ROCH and I'm a Fullstack Web Developer located in Besan
 ![adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011?style=flat-square&logo=github&logoColor=white)
+![Commitizen](https://img.shields.io/badge/Commitizen-%23121011?style=flat-square&logoColor=white)
 
 ### Inspiration
 
